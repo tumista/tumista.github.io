@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tumista.github.io/sitemap.html.gz
+Sitemap: https://tumista.github.io/app/sitemap.html.gz
+Sitemap: https://tumista.github.io/assets/sitemap.html.gz
+Sitemap: https://tumista.github.io/css/sitemap.html.gz
+Sitemap: https://tumista.github.io/data/sitemap.html.gz
+Sitemap: https://tumista.github.io/includes/sitemap.html.gz
+Sitemap: https://tumista.github.io/item/sitemap.html.gz
+Sitemap: https://tumista.github.io/src/sitemap.html.gz
